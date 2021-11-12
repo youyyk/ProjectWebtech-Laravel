@@ -13,14 +13,9 @@
         "laravel/framework": "^8.54",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
-<<<<<<< HEAD
-        "phattarachai/line-notify": "^1.1",
-        "laravel/ui": "^3.3"
-=======
         "laravel/ui": "^3.3",
         "livewire/livewire": "^2.6",
         "phattarachai/line-notify": "^1.1"
->>>>>>> aa358aa5e9b108bb6c325ddc6db8289d4132561f
     },
     "require-dev": {
         "facade/ignition": "^2.5",

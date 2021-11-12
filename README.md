@@ -8,6 +8,12 @@
 - วนิดา ธรรมปัทม์ 6210450717
 - โยษิตา จินดา 6210451411
 
+## Project Link
+โดยตัวโปรเจ็คที่ deploy นั้นได้มีการปรับแก้เพิ่มเติมในส่วนของการจัดการพนักงานหลังร้าน
+สามารถอ่านรายละเอียดโปรเจ็คที่ปรับแก้ได้ที่
+https://github.com/youyyk/ProjectSE-Laravel
+> http://Ec2-175-41-181-99.ap-southeast-1.compute.amazonaws.com
+
 ## Install
 ```
 git clone https://github.com/youyyk/ProjectWebtech-Laravel.git
